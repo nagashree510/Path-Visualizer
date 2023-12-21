@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Path-Visualize/static/css/main.8a35ab5a.css",
-    "main.js": "/Path-Visualize/static/js/main.aac77e69.js",
-    "static/js/787.16eb2551.chunk.js": "/Path-Visualize/static/js/787.16eb2551.chunk.js",
-    "static/media/logo.50d5c895.svg": "/Path-Visualize/static/media/logo.50d5c895.fe593daf314b6278f32fc04450d8fb5c.svg",
-    "index.html": "/Path-Visualize/index.html",
-    "main.8a35ab5a.css.map": "/Path-Visualize/static/css/main.8a35ab5a.css.map",
-    "main.aac77e69.js.map": "/Path-Visualize/static/js/main.aac77e69.js.map",
-    "787.16eb2551.chunk.js.map": "/Path-Visualize/static/js/787.16eb2551.chunk.js.map"
+    "main.css": "/Path-Visualizer/static/css/main.8a35ab5a.css",
+    "main.js": "/Path-Visualizer/static/js/main.7d83ea4c.js",
+    "static/js/787.16eb2551.chunk.js": "/Path-Visualizer/static/js/787.16eb2551.chunk.js",
+    "static/media/logo.50d5c895.svg": "/Path-Visualizer/static/media/logo.50d5c895.fe593daf314b6278f32fc04450d8fb5c.svg",
+    "index.html": "/Path-Visualizer/index.html",
+    "main.8a35ab5a.css.map": "/Path-Visualizer/static/css/main.8a35ab5a.css.map",
+    "main.7d83ea4c.js.map": "/Path-Visualizer/static/js/main.7d83ea4c.js.map",
+    "787.16eb2551.chunk.js.map": "/Path-Visualizer/static/js/787.16eb2551.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a35ab5a.css",
-    "static/js/main.aac77e69.js"
+    "static/js/main.7d83ea4c.js"
   ]
 }
